@@ -5,10 +5,10 @@ public class AboutMe {
 
 	
 	
-//	variable declared
+	//	variable declared
 	public String schoolName;
 	
-//	variable initialized
+	//	variable initialized
 	public String myName = "Roni";
 	public int myAge = 23;
 	public float myHeight = 5.11f;
